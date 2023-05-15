@@ -17,29 +17,20 @@ darkmode: false
 # Social links
 github_username: UtkarshSaxenautk
 stackoverflow_username: "19090939"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username:
 linkedin_username: utkarsh-saxena-5a9034201
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
-# leetcode_username: usutk
-# codechef_username: utk_2003
-# codeforces_username: Utk__03
+leetcode_username: usutk
+codechef_username: utk_2003
+codeforces_username: Utk__03
 
-Additional icon links
-additional_links:
-  - title: leetcode
-    icon: fab fa-rectangle-terminal
-    url: https://leetcode.com/usutk/
-  - title: codechef
-    url: https://www.codechef.com/users/utk_2003
-  - title: codeforces
-    url: https://codeforces.com/profile/Utk__03
+# Additional icon links
+# additional_links:
+#   - title: leetcode
+#     icon: fab fa-rectangle-terminal
+#     url: https://leetcode.com/usutk/
+#   - title: codechef
+#     url: https://www.codechef.com/users/utk_2003
+#   - title: codeforces
+#     url: https://codeforces.com/profile/Utk__03
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -137,6 +128,13 @@ content:
 
         description: | # this will include new lines to allow paragraphs
           Percentage : 95.65
+  - title: Achievements
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Some of my Achievements:
+      - Gate Qualified(2023)
+      - Department Coding Competition 2nd Prize
+      - 6th rank in CodeChef Contest
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
