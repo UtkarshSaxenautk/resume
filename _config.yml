@@ -32,14 +32,14 @@ codechef_username: utk_2003
 codeforces_username: Utk__03
 
 # Additional icon links
-# additional_links:
-#   - title: leetcode
-#     icon: fab fa-rectangle-terminal
-#     url: https://leetcode.com/usutk/
-#   - title: codechef
-#     url: https://www.codechef.com/users/utk_2003
-#   - title: codeforces
-#     url: https://codeforces.com/profile/Utk__03
+additional_links:
+  - title: leetcode
+    icon: fab fa-rectangle-terminal
+    url: https://leetcode.com/usutk/
+  - title: codechef
+    url: https://www.codechef.com/users/utk_2003
+  - title: codeforces
+    url: https://codeforces.com/profile/Utk__03
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
