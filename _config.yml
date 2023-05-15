@@ -27,11 +27,11 @@ linkedin_username: utkarsh-saxena-5a9034201
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
-leetcode_username: usutk
-codechef_username: utk_2003
-codeforces_username: Utk__03
+# leetcode_username: usutk
+# codechef_username: utk_2003
+# codeforces_username: Utk__03
 
-# Additional icon links
+Additional icon links
 additional_links:
   - title: leetcode
     icon: fab fa-rectangle-terminal
